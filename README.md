@@ -1,4 +1,4 @@
-![Érica Mourão](https://github.com/ericamourao/ericamourao.github.io/raw/master/Erica.png)
+![Érica Mourão](https://github.com/ericamourao/ericamourao.github.io/raw/master/Erica.png)  
 Érica Mourão da Silva (Érica Mourão)
 
 M.Sc. Student in Software Engineering from UFF (2016 - until this moment)  
