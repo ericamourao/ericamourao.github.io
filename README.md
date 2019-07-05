@@ -37,4 +37,4 @@ You can check my publications at [Google Scholar](https://scholar.google.com.br/
 
 ### **Contact**
 
-You can contact me through ericamourao@gmail.com or emourao@ic.uff.br
+You can contact me through ericamourao@gmail.com
