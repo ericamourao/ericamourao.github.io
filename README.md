@@ -1,5 +1,6 @@
 
-Érica Mourão da Silva (Érica Mourão)
+
+![Érica Mourão da Silva (Érica Mourão)](https://github.com/ericamourao/ericamourao.github.io/blob/master/Erica.png)
 
 
 M.Sc. Student in Software Engineering from UFF  
@@ -7,7 +8,7 @@ M.B.A. in Software Engineering from UFRJ (2008)
 B.Sc. in Computer Science from UERJ (2007)  
 
 
-**About**
+**About me**
 
 I’m an M.Sc. Student at the [Computing Institute](http://www.ic.uff.br/index.php/pt/) of Fluminense Federal University.
 My research area is software engineering.
