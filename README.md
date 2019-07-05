@@ -11,8 +11,8 @@ B.Sc. in Computer Science from UERJ (2007)
 
 ### **About me**
 
-I’m an M.Sc. Student at the [Computing Institute](http://www.ic.uff.br/index.php/pt/) of Fluminense Federal University.
-My research area is software engineering.
+I’m a M.Sc. Student at the [Computing Institute](http://www.ic.uff.br/index.php/pt/) of Fluminense Federal University.
+My research area is Software Engineering.
 
 My detailed CV is available at [Lattes Platform](http://lattes.cnpq.br/7734579927953717) and [Linkedin](https://www.linkedin.com/in/ericamourao/).
 Here you can find some material related to my research and my publications.
