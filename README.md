@@ -1,9 +1,9 @@
+Érica Mourão da Silva (Érica Mourão)
+
+![Érica Mourão](https://github.com/ericamourao/ericamourao.github.io/blob/master/Erica.png)
 
 
-![Érica Mourão da Silva (Érica Mourão)](https://github.com/ericamourao/ericamourao.github.io/blob/master/Erica.png)
-
-
-M.Sc. Student in Software Engineering from UFF  
+M.Sc. Student in Software Engineering from UFF (2016 - until this moment)  
 M.B.A. in Software Engineering from UFRJ (2008)    
 B.Sc. in Computer Science from UERJ (2007)  
 
