@@ -1,4 +1,4 @@
-Érica Mourão da Silva (Érica Mourão)
+Érica Mourão da Silva
 
 ![Érica Mourão](https://github.com/ericamourao/ericamourao.github.io/raw/master/Erica.png)
 
