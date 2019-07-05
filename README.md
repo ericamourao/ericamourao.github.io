@@ -1,7 +1,5 @@
 Érica Mourão da Silva (Érica Mourão)
 
-![Érica Mourão](https://github.com/ericamourao/ericamourao.github.io/blob/master/Erica.png)
-
 ![Érica Mourão](https://github.com/ericamourao/ericamourao.github.io/raw/master/Erica.png)
 
 
