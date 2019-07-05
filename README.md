@@ -23,7 +23,7 @@ Hybrid Strategies
 
 A hybrid search strategy is an approach that combines database search and snowballing to conduct a Systematic Literature Review (SLR) in Software Engineering.
 
-We proposed hybrid search strategies and applied to published SLRs that adopted database searches and snowballing. For this, we used the [Snowballing Tool](https://github.com/JoaoFelipe/snowballing) developed by Joao Felipe Pimentel in Python. Additionally, we developed scripts to simulate the proposed hybrid search strategies. The project Hybrid Strategies is available under MIT License at https://github.com/gems-uff/hybrid-strategies. 
+We proposed hybrid search strategies and applied to published SLRs that adopted database searches and snowballing. For this, we used the [Snowballing Tool](https://github.com/JoaoFelipe/snowballing) developed by Joao Felipe Pimentel in Python. Additionally, we developed scripts to simulate the proposed hybrid search strategies. The project Hybrid Strategies is available under MIT License at [GitHub](https://github.com/gems-uff/hybrid-strategies). 
 
 You can learn more about the hybrid search strategy through the following paper:
 
