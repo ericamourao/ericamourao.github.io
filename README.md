@@ -9,7 +9,7 @@ B.Sc. in Computer Science from UERJ (2007)
 
 
 
-## **About me**
+### **About me**
 
 I’m an M.Sc. Student at the [Computing Institute](http://www.ic.uff.br/index.php/pt/) of Fluminense Federal University.
 My research area is software engineering.
@@ -17,7 +17,7 @@ My research area is software engineering.
 My detailed CV is available at [Lattes Platform](http://lattes.cnpq.br/7734579927953717) and [Linkedin](https://www.linkedin.com/in/ericamourao/).
 Here you can find some material related to my research and my publications.
 
-##**Project**
+### **Project**
 
 Hybrid Strategies
 
@@ -30,11 +30,11 @@ You can learn more about the hybrid search strategy through the following paper:
 [Mourão, E., Kalinowski, M., Murta, L., Mendes, E., & Wohlin, C.. Investigating the use of a hybrid search strategy for systematic reviews. ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), 2017 (pp. 193-198).](https://ieeexplore.ieee.org/abstract/document/8170102)
 
 
-##**Publications**
+### **Publications**
 
 You can check my publications at [Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=cNVoORsAAAAJ) and [Research Gate](https://www.researchgate.net/profile/Erica_Mourao/publications).
 
 
-##**Contact**
+### **Contact**
 
 You can contact me through ericamourao@gmail.com or emourao@ic.uff.br
