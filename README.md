@@ -3,7 +3,7 @@
 
 M.Sc. in Software Engineering from UFF (2019)  
 M.B.A. in Software Engineering from UFRJ (2008)    
-B.Sc. in Computer Science from UERJ (2007) - previously B.Sc in Informatica and Information Technology
+B.Sc. in Computer Science from UERJ (2007) - previously called B.Sc in Informatica and Information Technology
 
 
 
