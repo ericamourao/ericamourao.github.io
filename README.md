@@ -3,7 +3,7 @@
 
 M.Sc. in Software Engineering from UFF (2019)  
 M.B.A. in Software Engineering from UFRJ (2008)    
-B.Sc. in Computer Science from UERJ (2007)*
+B.Sc. in Computer Science* from UERJ (2007)
 
 
 
@@ -37,8 +37,5 @@ You can check my publications at [Google Scholar](https://scholar.google.com.br/
 
 You can contact me through ericamourao@gmail.com
 
-
-
-
-
-    * The course B.Sc. in Computer Science was called B.Sc in Informatica and Information Technology until 2007.
+\
+\* The course B.Sc. in Computer Science was called B.Sc in Informatica and Information Technology until 2007.
