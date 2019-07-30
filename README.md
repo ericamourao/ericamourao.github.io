@@ -41,4 +41,4 @@ You can contact me through ericamourao@gmail.com
 
 
 
-    * The course was called B.Sc in Informatica and Information Technology until 2007.
+    * The course B.Sc. in Computer Science was called B.Sc in Informatica and Information Technology until 2007.
