@@ -37,5 +37,5 @@ You can check my publications at [Google Scholar](https://scholar.google.com.br/
 
 You can contact me through ericamourao@gmail.com
 
-\
+
 \* The course B.Sc. in Computer Science was called B.Sc in Informatica and Information Technology until 2007.
