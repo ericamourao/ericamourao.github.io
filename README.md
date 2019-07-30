@@ -17,7 +17,7 @@ Here you can find some material related to my research and my publications.
 
 ### **Project**
 
-Hybrid Strategies
+[Hybrid Strategies](https://github.com/gems-uff/hybrid-strategies)
 
 A hybrid search strategy is an approach that combines database search and snowballing to conduct a Systematic Literature Review (SLR) in Software Engineering.
 
