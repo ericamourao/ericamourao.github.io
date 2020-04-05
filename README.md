@@ -14,9 +14,10 @@ B.Sc. in Informatics and Information Technology of UERJ (2007)
 I’m a researcher in Systems and Information Engineering at the [Computing Institute](http://www.ic.uff.br/index.php/pt/) of Fluminense Federal University. My research area is Systems and Information Engineering.
 
 My detailed CV is available at [Lattes Platform](http://lattes.cnpq.br/7734579927953717) and [Linkedin](https://www.linkedin.com/in/ericamourao/).
+
 Here you can find some material related to my research and my publications.
 
-### **M.Sc. Project**
+### **M.Sc. Student - Project**
 
 [Hybrid Strategies](https://github.com/gems-uff/hybrid-strategies)
 
@@ -39,4 +40,4 @@ You can check my publications at [Google Scholar](https://scholar.google.com.br/
 
 ### **Contact**
 
-You can contact me through ericamourao@gmail.com
+You can contact me through ericamourao@gmail.com; ericamourao@id.uff.br
