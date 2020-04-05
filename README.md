@@ -1,21 +1,21 @@
 ![Érica Mourão](https://github.com/ericamourao/ericamourao.github.io/raw/master/EricaMourao.png)  
 Érica Mourão da Silva (Érica Mourão)
 
-M.Sc. in Software Engineering from UFF (2019)  
-M.B.A. in Software Engineering from UFRJ (2008)    
-B.Sc. in Computer Science* from UERJ (2007)
+Ph.D Student in Computing of UFF (2020)
+M.Sc. in Computing of UFF (2019)  
+M.B.A. in Software Engineering of UFRJ (2008)    
+B.Sc. in Informatics and Information Technology of UERJ (2007)
 
 
 
 ### **About me**
 
-I’m a researcher at the [Computing Institute](http://www.ic.uff.br/index.php/pt/) of Fluminense Federal University.
-My research area is Software Engineering.
+I’m a researcher in Systems and Information Engineering at the [Computing Institute](http://www.ic.uff.br/index.php/pt/) of Fluminense Federal University. My research area is Systems and Information Engineering.
 
 My detailed CV is available at [Lattes Platform](http://lattes.cnpq.br/7734579927953717) and [Linkedin](https://www.linkedin.com/in/ericamourao/).
 Here you can find some material related to my research and my publications.
 
-### **Project**
+### **M.Sc. Project**
 
 [Hybrid Strategies](https://github.com/gems-uff/hybrid-strategies)
 
@@ -27,15 +27,16 @@ You can learn more about the hybrid search strategy through the following paper:
 
 [Mourão, E., Kalinowski, M., Murta, L., Mendes, E., & Wohlin, C.. Investigating the use of a hybrid search strategy for systematic reviews. ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), 2017 (pp. 193-198).](https://ieeexplore.ieee.org/abstract/document/8170102)
 
+[Mourão, E., Pimentel, J. F., Murta, L., Kalinowski, M., Mendes, E., & Wohlin, C. (2020). On the Performance of Hybrid Search Strategies for Systematic Literature Reviews in Software Engineering. Information and Software Technology, 106294.]
+(https://www.sciencedirect.com/science/article/abs/pii/S0950584920300446)
+
+
 
 ### **Publications**
 
-You can check my publications at [Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=cNVoORsAAAAJ) and [Research Gate](https://www.researchgate.net/profile/Erica_Mourao/publications).
+You can check my publications at [Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=cNVoORsAAAAJ) and [Research Gate](https://www.researchgate.net/profile/Erica_Mourao2/publications).
 
 
 ### **Contact**
 
 You can contact me through ericamourao@gmail.com
-
-
-\* The course B.Sc. in Computer Science was called B.Sc in Informatica and Information Technology until 2007.
