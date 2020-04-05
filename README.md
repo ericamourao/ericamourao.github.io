@@ -2,6 +2,7 @@
 Érica Mourão da Silva (Érica Mourão)
 
 Ph.D Student in Computing of UFF (2020)
+
 M.Sc. in Computing of UFF (2019)  
 M.B.A. in Software Engineering of UFRJ (2008)    
 B.Sc. in Informatics and Information Technology of UERJ (2007)
@@ -27,8 +28,7 @@ You can learn more about the hybrid search strategy through the following paper:
 
 [Mourão, E., Kalinowski, M., Murta, L., Mendes, E., & Wohlin, C.. Investigating the use of a hybrid search strategy for systematic reviews. ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), 2017 (pp. 193-198).](https://ieeexplore.ieee.org/abstract/document/8170102)
 
-[Mourão, E., Pimentel, J. F., Murta, L., Kalinowski, M., Mendes, E., & Wohlin, C. (2020). On the Performance of Hybrid Search Strategies for Systematic Literature Reviews in Software Engineering. Information and Software Technology, 106294.]
-(https://www.sciencedirect.com/science/article/abs/pii/S0950584920300446)
+[Mourão, E., Pimentel, J. F., Murta, L., Kalinowski, M., Mendes, E., & Wohlin, C. (2020). On the Performance of Hybrid Search Strategies for Systematic Literature Reviews in Software Engineering. Information and Software Technology, 106294.](https://www.sciencedirect.com/science/article/abs/pii/S0950584920300446)
 
 
 
