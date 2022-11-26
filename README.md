@@ -34,6 +34,9 @@ You can learn more about the hybrid search strategy through the following paper:
 [Mourão, E., Pimentel, J. F., Murta, L., Kalinowski, M., Mendes, E., & Wohlin, C. (2020). On the Performance of Hybrid Search Strategies for Systematic Literature Reviews in Software Engineering. Information and Software Technology, 106294.](https://www.sciencedirect.com/science/article/abs/pii/S0950584920300446)
 
 
+### **Ph.D Student - Project**
+
+[Research Software](https://github.com/ericamourao/researchsoftware)
 
 ### **Publications**
 
