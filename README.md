@@ -1,8 +1,7 @@
 ![Érica Mourão](https://github.com/ericamourao/ericamourao.github.io/raw/master/EricaMourao.png)  
 Érica Mourão da Silva (Érica Mourão)
 
-Ph.D Student in Computing of UFF (2020)
-
+D.Sc. (Ph.D) in Computing of UFF (2024)
 M.Sc. in Computing of UFF (2019)  
 M.B.A. in Software Engineering of UFRJ (2008)    
 B.Sc. in Informatics and Information Technology of UERJ (2007)
@@ -11,7 +10,7 @@ B.Sc. in Informatics and Information Technology of UERJ (2007)
 
 ### **About me**
 
-I’m a researcher at the [Computing Institute](http://www.ic.uff.br/index.php/pt/) of Fluminense Federal University. My research area is Systems and Information Engineering - Computer Science.
+I’m a Computer Science Researcher. My research area is Systems and Information Engineering - Computer Science.
 
 My detailed CV is available at [Lattes Platform](http://lattes.cnpq.br/7734579927953717) and [Linkedin](https://www.linkedin.com/in/ericamourao/).
 
