@@ -2,6 +2,7 @@
 Érica Mourão da Silva (Érica Mourão)
 
 D.Sc. (Ph.D) in Computing of UFF (2024)
+
 M.Sc. in Computing of UFF (2019)  
 M.B.A. in Software Engineering of UFRJ (2008)    
 B.Sc. in Informatics and Information Technology of UERJ (2007)
