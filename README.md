@@ -2,7 +2,7 @@
 Érica Mourão da Silva (Érica Mourão)
 
 
-Postdoctoral position (Postdoc) in Computing of UFF (2025)     
+Postdoctoral (Postdoc) Researcher in Computing of UFF (2025)     
 D.Sc. (Ph.D) in Computing of UFF (2024)    
 M.Sc. in Computing of UFF (2019)  
 M.B.A. in Software Engineering of UFRJ (2008)    
